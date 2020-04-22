@@ -1,0 +1,19 @@
+{
+	"oViewKeyboard": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"ACCESSIBILITYID://1"
+		]
+	},
+
+	"oBtnClose": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath://(//UIAButton[@name='确定'])[last()]"
+		]
+	}
+}

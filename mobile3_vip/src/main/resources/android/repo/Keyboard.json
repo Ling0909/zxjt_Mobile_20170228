@@ -1,0 +1,19 @@
+{
+	"oViewKeyboard": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////android.widget.FrameLayout[@resource-id='zhongxinjiantou.szkingdom.android.newphone:id/abs__keyboard_input_view']/android.view.View/android.view.View"
+		]
+	},
+
+	"oBtnClose": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://abs__keyboard_hide"
+		]
+	}
+}
